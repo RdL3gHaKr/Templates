@@ -3,17 +3,24 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "tasstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "asims"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "tas4567"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "SizeofDiskinGB": {
+      "value": "20"
+    }
     }
   }
-}
+
 
